@@ -20,7 +20,7 @@ It restores blurry, low-quality, or old facial images by balancing **fidelity** 
 
 ### 1. Clone this Repository
 
-git clone https://github.com/MRizwanMalik/Face-Restore.git
+git clone https://github.com/rehanmalik-1590/Face-Restore.git
 
 cd Face-Restore
 ### 2. Create Virtual Env
